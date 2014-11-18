@@ -36,6 +36,8 @@ fun comp1 ()=
     Js.innerHTML length len;false
 
   end
-
+fun square n =
+  Js.innerHTML n*n; false
+  
 
 val () = Js.installEventHandler elemC Js.onchange comp1
