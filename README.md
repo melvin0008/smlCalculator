@@ -1,7 +1,7 @@
 smlCalculator
 =============
 
-Scientific high performance Calculator using sml as backend
+Scientific high performance Calculator using sml.    
 Not yet complete
  
  
